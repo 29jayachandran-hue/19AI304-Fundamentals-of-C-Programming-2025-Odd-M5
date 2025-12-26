@@ -39,7 +39,9 @@
 ### Step 12: 
   Stop
 # Program:
+![21 ](https://github.com/user-attachments/assets/db90ea98-c377-4a8c-bc56-357676532f9e)
 # Output:
+![21 o](https://github.com/user-attachments/assets/db27356f-7c40-4674-8c14-31f46b07807e)
 # Result: 
   Thus, the program was implemented and executed successfully, and the required output was obtained.
 
@@ -77,7 +79,9 @@
 ### Step 10:
   Stop
 # Program:
+![22](https://github.com/user-attachments/assets/dc39e94b-b269-4f22-a5f3-a43bf46365a0)
 # Output:
+![22 o](https://github.com/user-attachments/assets/e489e3af-1548-4180-ae87-085a3d5dfe04)
 # Result: 
 Thus, the program was implemented and executed successfully, and the required output was obtained.
 
@@ -119,7 +123,10 @@ Thus, the program was implemented and executed successfully, and the required ou
 ### Step 12:
   Stop
 # Program:
+![23](https://github.com/user-attachments/assets/c645299e-d90a-48db-b309-cd8f3cb86ecf)
+![23 2](https://github.com/user-attachments/assets/bb009a21-ced9-414d-b9f0-d7d7a00aa387)
 # Output:
+![23 2](https://github.com/user-attachments/assets/fd711c38-bf8f-4e14-9adb-a7547ccba66e)
 # Result: 
 Thus, the program was implemented and executed successfully, and the required output was obtained.
 
@@ -161,7 +168,9 @@ Thus, the program was implemented and executed successfully, and the required ou
 ### Step 11:
   Stop
 # Program:
+![24](https://github.com/user-attachments/assets/92e9f2e0-1a7c-4072-8b39-c1534dad3b50)
 # Output:
+![24 o](https://github.com/user-attachments/assets/bec6c6b3-2536-42f8-99fa-9b008504d1eb)
 # Result: 
 Thus, the program was implemented and executed successfully, and the required output was obtained.
 
@@ -197,6 +206,8 @@ Thus, the program was implemented and executed successfully, and the required ou
 ### Step 10:
   Stop
 # Program:
+![25](https://github.com/user-attachments/assets/f21b3de3-efb7-4f17-a431-97d2886a9871)
 # Output:
+![25 o](https://github.com/user-attachments/assets/26824cfa-6278-4b82-a8df-23c32f213514)
 # Result: 
 Thus, the program was implemented and executed successfully, and the required output was obtained.
